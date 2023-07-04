@@ -8,4 +8,5 @@ Yapay Zeka alanında yaptığım çalışmalar ve makalelerimi bu sayfada payla�
 2) Classification of Dianthus Seed Species with Deep Transfer Learning
 * https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4173707
 
-
+3) XAI in the Hybrid Classification of Brain MRI Tumor Images
+* https://ieeexplore.ieee.org/document/10158479/authors#authors)https://ieeexplore.ieee.org/document/10158479/authors#authors
