@@ -10,3 +10,6 @@ Yapay Zeka alanında yaptığım çalışmalar ve makalelerimi bu sayfada payla�
 
 3) XAI in the Hybrid Classification of Brain MRI Tumor Images
 * https://ieeexplore.ieee.org/document/10158479/authors#authors)https://ieeexplore.ieee.org/document/10158479/authors#authors
+
+4) Automated classification of choroidal neovascularization, diabetic macular edema, and drusen from retinal OCT images using vision transformers: a comparative study
+* https://link.springer.com/article/10.1007/s10103-024-04089-w
